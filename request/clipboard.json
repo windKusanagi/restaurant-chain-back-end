@@ -1,0 +1,14 @@
+{
+  "data": {
+    "employeeId":1,
+    "employeeBelong":1,
+    "employeeJobnumber":"APTX-4896",
+    "employeeTitle":"Manager",
+    "employeeSex":1,
+    "employeeFirstname":"Sadakane",
+    "employeeLastname":"Shimazu",
+    "employeeContact":"123456789",
+    "employeeSalary":1236.00
+  }
+}
+
